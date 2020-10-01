@@ -2,7 +2,7 @@ from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
 from kivy.uix.textinput import TextInput
- 
+#this api is made by neos company.
 class MainApp(App):
     def build(self):
         self.operators = ["/", "*", "+", "-"]
